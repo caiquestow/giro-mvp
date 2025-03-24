@@ -1,5 +1,11 @@
 fastapi
 uvicorn
+pymongo
 python-dotenv
+requests
+cloudinary
+pandas
+openpyxl
+lxml
 langchain
 langchain-openai
